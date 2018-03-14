@@ -20,6 +20,7 @@ In this assignment we will pave the way for a formal rendering engine using Open
       * the registered version of GLSL on the shader program,
       * the raw error message
 - [ ] Add utility functions and classes as you see fit. 
+- [ ] Adds debugging tools like switching between wireframe view and regular view, gl error checking with file and line reporting, etc.
 
 ### Notes
 * Code should look clean and design should allow for scope creep and growth. Feel free to do whatever you see fit to achieve this.
